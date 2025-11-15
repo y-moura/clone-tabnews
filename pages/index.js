@@ -1,5 +1,9 @@
 function Home() {
-    return <h1>Lechuga, se tu me ama, dá uma risadinha. 🥬🫶</h1>
+  return <h1>Lechuga, se tu me ama, dá uma risadinha. 🥬🫶</h1>;
+}
+
+function teste() {
+  console.log("asdasdasd");
 }
 
 export default Home;
